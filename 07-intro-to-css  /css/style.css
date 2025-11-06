@@ -1,22 +1,22 @@
-#p1{
-    color: #ccccff;
+#p1 {
+  color: #ccccff;
 }
 #p2 {
-    color:green;
+   color:green;
 }
 
 p {
-  background-color: teal
+  background-color: teal;
 }
 
 span {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 #s1 {
-  color:aquamarine;
+  color: aquamarine;
 }
 
 #s3 {
- background-color: brown;
+  background-color: brown;
 }
