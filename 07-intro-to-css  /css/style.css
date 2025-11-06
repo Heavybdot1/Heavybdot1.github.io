@@ -6,5 +6,17 @@
 }
 
 p {
-  background-color: orange
+  background-color: teal
+}
+
+span {
+    font-weight: bold;
+}
+
+#s1 {
+  color:aquamarine;
+}
+
+#s3 {
+ background-color: brown;
 }
