@@ -1,0 +1,67 @@
+/*
+    NOTE TO STUDENTS: 
+
+    This is the file you should be writing your CSS in 
+    for the Bulletin Board assignment.
+
+    Good luck, and have fun!
+*/
+.post-it {
+    background-color: chartreuse;
+    display: inline-block;
+    width: 150px;
+    font-family: sans-serif;
+    margin: 24px;
+    padding: 24px;
+    vertical-align: top;
+    overflow: break-word;
+}
+.pink {
+    background-color: lightpink;
+    width: 200px;
+    
+}
+
+#tree {
+    width: 100%;
+    display: block
+}
+.yellow {
+    width: 200px;
+    padding: 0%
+}
+.blues {
+    background-color: lightblue;
+    width: 200px
+}
+#baby {
+    width: 100%;
+}
+
+#stork1 {
+    width: 100%;
+
+} 
+#idk {
+    width: 100%;
+    display: block;
+}
+.yellow-2 {
+    width: 300px;
+    padding: 0%
+}
+.baby-boy {
+    width: 150px;
+    
+}
+
+.orange {
+    background-color: blueviolet;
+    rotate: -10deg;
+}
+.black {
+    background-color: khaki;
+    width: 300px;
+    rotate: 5deg;
+}
+
