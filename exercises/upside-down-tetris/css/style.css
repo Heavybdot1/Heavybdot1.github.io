@@ -1,0 +1,72 @@
+#container {
+    width: 500px;
+    min-height: 100vh;
+    background-color: seagreen;
+    font-size: 0px;
+}
+.block {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: darkslateblue;
+
+}
+ .orange {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+
+ }
+
+ .yellow {
+    background-color: dodgerblue;
+ }
+ 
+ .green {
+    background-color: chartreuse;
+ }
+
+ .red {
+    background-color: chartreuse;
+ }
+
+ .gold {
+    background-color: chartreuse;
+ }
+
+ .black {
+    background-color: aqua;
+ }
+
+ .yellow {
+    background-color: dodgerblue;
+ }
+ .yellow {
+    background-color: dodgerblue;
+    
+ }
+ .yellow {
+    background-color: dodgerblue;
+    
+ }
+ .gold {
+    background-color: chartreuse;
+ }
+
+ .gray {
+    background-color: black;
+ }
+ .gray {
+    background-color: black;
+ }
+  .orange {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+
+ }
+ .gold {
+    background-color: chartreuse;
+ }
+ 
+ 
