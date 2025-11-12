@@ -1,0 +1,31 @@
+#durk {
+    border: 10px solid black;
+    margin: 24px 0px;
+    padding: 24px;
+    background-color: wheat;
+    box-shadow: 2px 2px 5px;
+    rotate: -2deg; 
+}
+
+#east {
+    border: 10px solid burlywood;
+    margin: 24px 0px;
+    padding: 24px;
+    background-color: whitesmoke;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 10px;
+
+}
+
+#album {
+    border: 10px solid black;
+    margin: 24px 0px;
+    padding: 24px;
+    background-color: teal;
+    width: 150px;
+    display: inline-block 
+}
+
+
