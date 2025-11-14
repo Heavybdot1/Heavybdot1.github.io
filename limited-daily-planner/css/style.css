@@ -1,0 +1,19 @@
+.completed {
+    text-decoration: line-through;
+}
+
+.important {
+    font-weight: bold;
+    color: green;
+}
+
+.completed.important {
+    background-color: aqua;
+}
+
+.button {
+    background-color: green;
+    display: inline-block;
+    border: 5px;
+    color: solid 
+}
