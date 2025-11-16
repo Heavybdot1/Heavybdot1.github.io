@@ -5,9 +5,7 @@
 .important {
     font-weight: bold;
     text-decoration: line-through;
-    margin: 2px;
-    padding: 10px;
-
+   
    
 }
 
@@ -19,25 +17,27 @@
 .button {
   
     display: inline-block;
-    border: 5px;
-    color: solid 
+    border: 5px solid darkgrey;
+    border-radius: 15px;
 }
 
 #evening {
     border: 5px;
-    background-color: rgb(108, 101, 101);
+    background-color: rgb(180, 101, 101);
+    margin: 10px;
+    padding: 5px;
 
 }
 #afternoon {
-    background-color: rgb(167, 160, 160);
-    border: 5px;
-    margin: 5px
+    background-color: rgb(180, 217, 194);
+    margin: 10px;
+    padding: 5px;
+
 }
 
 #morning {
    background-color: rgb(221, 212, 212);
-   border: 5px;
-   margin: 5px;;
-    
+   margin: 10px;
+   padding: 5px;
 }
 
