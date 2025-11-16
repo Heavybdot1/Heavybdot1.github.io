@@ -1,19 +1,43 @@
 .completed {
-    text-decoration: line-through;
+    text-decoration: line-through;    
 }
 
 .important {
     font-weight: bold;
-    color: green;
+    text-decoration: line-through;
+    margin: 2px;
+    padding: 10px;
+
+   
 }
 
 .completed.important {
-    background-color: aqua;
+
+    background-color: rgb(176, 125, 225);
 }
 
 .button {
-    background-color: green;
+  
     display: inline-block;
     border: 5px;
     color: solid 
 }
+
+#evening {
+    border: 5px;
+    background-color: rgb(108, 101, 101);
+
+}
+#afternoon {
+    background-color: rgb(167, 160, 160);
+    border: 5px;
+    margin: 5px
+}
+
+#morning {
+   background-color: rgb(221, 212, 212);
+   border: 5px;
+   margin: 5px;;
+    
+}
+
