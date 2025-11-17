@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+.screen-print {
+    padding: 48px 0px;
+    color: rgb(0, 0, 0);
+    width: 50%;
+    max-width: 900px;
+    min-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+   
