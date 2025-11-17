@@ -13,6 +13,12 @@ body {
     min-width: 500px;
     margin-left: auto;
     margin-right: auto;
+    background-color: rgb(176, 132, 217);
+}
+.techniques {
+    background-color: rgb(139, 235, 139);
+    color: rgb(239, 16, 161);
+    padding: 48px;
 }
 
    
