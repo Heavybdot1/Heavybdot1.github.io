@@ -1,34 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 * {
-box-sizing: border-box;
-}
-
-body {
-margin: 0%;
-font-family: sans-serif;
+    box-sizing: border-box;
 }
 
 
-.vastex {
-background-color: rgb(144, 245, 181);
-max-width: 500px;
-max-width: 500px;
-margin: 0px auto;
-
-
+.color-1 {
+    background-color: rgb(144, 245, 181);
+    max-width: 500px;
+    margin: 0px auto;
 }
 
 .exposer {
-background-color: rgb(216, 222, 218);
-max-width: 500px;
-margin: 0px auto;
+    background-color: rgb(216, 222, 218);
+    max-width: 500px;
+    margin: 0px auto;
 
 }
 
 .dryer {
-background-color: lightblue;
-max-width: 500px;
-margin: 0px auto;
+    background-color: lightblue;
+    max-width: 500px;
+    margin: 0px auto;
 }
 
 h1 {
@@ -40,9 +32,11 @@ p {
 }
 
 a {
-    border: 1px solid#111;
     border-radius: 10px;
-    background-color: #fff6cb;
-    padding: 10px;
-    color: black 
+    background-color: #7ce4dd;
+    padding: 5px;
+    color: black;
+    align-items: center;
 }
+
+
