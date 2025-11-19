@@ -3,25 +3,23 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 0px;
+}
 
 .color-1 {
     background-color: rgb(144, 245, 181);
-    max-width: 500px;
-    margin: 0px auto;
-    margin-left: auto;
+
 }
 
-.exposer {
+.color-2 {
     background-color: rgb(216, 222, 218);
-    max-width: 500px;
-    margin: 0px auto;
 
 }
 
-.dryer {
+.color-3 {
     background-color: lightblue;
-    max-width: 500px;
-    margin: 0px auto;
+
 }
 
 h1 {
@@ -38,6 +36,11 @@ a {
     padding: 5px;
     color: black;
     align-items: center;
+}
+
+.single-column {
+    max-width: 500px;
+    margin: 0px auto;
 }
 
 
