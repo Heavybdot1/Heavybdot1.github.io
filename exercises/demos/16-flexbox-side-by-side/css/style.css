@@ -39,6 +39,30 @@ body {
     margin: 24px 0px 0px;
 }
 
+.sbs .imgc,
+.sbs .content {
+    flex: 1;
+}
+
 .sbs {
+    margin-bottom: 50px;
     display: flex;
+    align-items: center;
+    gap: 36px;
+
+}
+.sbs img {
+    width: 100%;
+}
+
+.sbs h2 {
+    font-size: 60px;
+    margin: 0px;
+}
+
+.sbs p {
+   
+    margin-top: 16px;
+    font-size: 20px;
+
 }
