@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#layout {
+    display: flex;
+    width: 90vw;
+    max-width: 1280px;
+    margin: 25px auto 0px;
+    gap: 50px;
+    justify-content: center;
+}
+ #thumbnail-column {
+    width: 200px;
+    border: 2px;
+    border-radius: 2px;
+ }
+
+ #featured-image-column {
+    flex: 1;
+ }
+
+ #product-info-column {
+    display: block;
+ }
