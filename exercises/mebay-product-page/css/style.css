@@ -23,8 +23,14 @@ body {
 
  #featured-image-column {
     flex: 1;
+    background-color: rgb(230, 232, 234);
  }
 
  #product-info-column {
     display: block;
+    font-size: small;
  }
+ .card-container {
+    display: inline;
+ }
+
