@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.center-column {
+    background-color: rgb(62, 167, 62);
+    width: 50%;
+    max-width: 900px;
+    min-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.team-1 {
+    height: 200px;
+    width: 200px;
+    background-color: crimson;
+    font-size: 40pt;
+    display: inline-block;
+    justify-content: center;
+}
+
+.team-2 {
+    height: 200px;
+    width: 200px;
+    background-color: rgb(93, 20, 220);
+    font-size: 40pt;
+    display: inline-block;
+    justify-content: center;
+}
