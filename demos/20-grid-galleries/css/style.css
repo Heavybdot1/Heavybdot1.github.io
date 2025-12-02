@@ -16,7 +16,7 @@ img {
     margin: auto;
 }
 
-.basic-grid-gallery {
+.center-column {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 25px;
@@ -24,7 +24,7 @@ img {
     padding: 24px;
 }
 
-.cropped-grid-gallery {
+.center-column {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-auto-rows: 200px;
@@ -34,6 +34,6 @@ img {
 
 }
 
-.cropped-grid-gallery img {
+.center-column img {
     height: 100%;
 }

@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+    color: rgb(153, 208, 208);
+    font-size: 50px;
+}
+img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 20px;
+    border: 15px;
+}
+
+#hero {
+    background-image: url("../images/hero.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-column {
+    max-width: 900px;
+    margin: 0px auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-rows: 300px;
+    gap: 25px;
+    padding: 24px;
+}
+
+.center-column img {
+    height: 100%;
+}
+
+.nature {
+    background-color: burlywood;
+}
+
+
